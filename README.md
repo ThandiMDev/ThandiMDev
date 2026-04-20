@@ -1,8 +1,7 @@
 ## Hi, I'm Thandi 👋
 
-🎓 Final-year Software Development Student
-💾 Aspiring Database Developer
-🚀 Building real-world applications
+🎓 Final-year Software Development Student, Aspiring Database Developer, Building real-world applications.
+
 💻 Skilled in SQL, Web Development, Java and C#
 
 ## About Me
@@ -17,14 +16,14 @@ I enjoy designing databases, writing SQL queries, and building applications that
 |------------|------|-------|
 | Databases  | SQL Server, Oracle SQL Developer | phpMyAdmin, XAMPP |
 | Frontend   | HTML, CSS, JavaScript, PHP | VS Code |
-| Backend    | C#, Java | Visual Studio |
+| Backend    | C#, Java | Visual Studio, Apache NetBeans |
 | Version Control / Collaboration | Git | GitHub |
 
 
-Featured Projects
+## Featured Projects
 
 Comming soon! I am currently building my website application and app
 
-Contact Me
+## Contact Me
 Email: (omphathandi@gmail.com)
 
