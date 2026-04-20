@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Thandi 👋
 
-<!--
-**ThandiMDev/ThandiMDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Software Development Student
+💾 Aspiring Database Developer
+🚀 Building real-world applications
+💻 Skilled in SQL, Web Development, Java and C#
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a final-year Software Development student with a strong interest in databases and real-world applications.
+I enjoy designing databases, writing SQL queries, and building applications that solve real-world problems.
+
+
+Technologies & Tools
+
+SQL Server, oracle SQL developer
+HTML, CSS, JavaScript, php
+C# 
+Java
+
+
+Featured Projects
+
+Comming soon!
+
+Contact Me
+Email: (omphathandi@gmail.com)
+
