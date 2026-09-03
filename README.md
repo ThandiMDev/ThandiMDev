@@ -15,14 +15,28 @@ I enjoy designing databases, writing SQL queries, and building applications that
 | Category   | Tech | Tools |
 |------------|------|-------|
 | Databases  | SQL Server, Oracle SQL Developer | phpMyAdmin, XAMPP |
-| Frontend   | HTML, CSS, JavaScript, PHP | VS Code |
-| Backend    | C#, Java | Visual Studio, Apache NetBeans |
+| Frontend   | HTML, CSS, JavaScript | VS Code |
+| Backend    | C#, Java & PHP | Visual Studio, Apache NetBeans |
 | Version Control / Collaboration | Git | GitHub |
 
 
 ## Featured Projects
 
-Comming soon! I am currently building my website application and app
+CleanFlow Community Infrastructure Platform
+
+Responsive Web Development Project
+
+Developed the responsive website component of CleanFlow Community Infrastructure, a digital platform designed to support rural water and sanitation infrastructure management. The website provides interfaces for infrastructure reporting, donations, volunteer coordination, project information, and stakeholder engagement.
+
+🏠 Home page
+📋 About/Project information
+💧 Infrastructure reporting
+💰 Donation page
+🤝 Volunteer section
+📊 Dashboard/interfaces
+📱 Responsive design
+🧭 Website navigation
+🎨 UI/UX implementation
 
 ## Contact Me
 Email: (omphathandi@gmail.com)
